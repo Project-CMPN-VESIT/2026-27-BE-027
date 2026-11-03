@@ -1,0 +1,20 @@
+zhou_site,kind,chr,position,zhou_traits
+OsSTRIPE2 (LOC_Os01g55974),gene,1,32234626,Plant_height;Grain_length;Spikelet_length
+OsARF8 (LOC_Os02g41800),gene,2,25134423,Grain_length;Spikelet_length
+OsDREB1D (LOC_Os06g06970),gene,6,3311076,Heading_date
+OsDEAR4 (LOC_Os06g07030),gene,6,3337492,Heading_date
+OsPILS2 (LOC_Os08g09190),gene,8,5323853,Heading_date
+OsCCR1 (LOC_Os09g04050),gene,9,2086307,Grain_width
+OsOG1 (LOC_Os10g37880),gene,10,20281538,Grain_width
+12_3637197 (qP.C12.3),snp,12,3637197,Plant_height;Spikelet_length
+12_3638037 (qP.C12.3),snp,12,3638037,Plant_height;Spikelet_length
+12_3637715 (qP.C12.3),snp,12,3637715,Plant_height;Spikelet_length
+1_19388316 (qP.C01.2),snp,1,19388316,Plant_height;Spikelet_length
+2_16438680 (qP.C02.4),snp,2,16438680,Plant_height;Spikelet_length
+2_16724980 (qP.C02.4),snp,2,16724980,Plant_height;Spikelet_length
+7_19793419 (qP.C07.1),snp,7,19793419,Plant_height;Spikelet_length
+3_15075278 (qP.C03.3),snp,3,15075278,Flag_leaf_angle (not in our data)
+4_21176154 (qP.C04.2),snp,4,21176154,Heading_date;Spikelet_length
+1_27543151 (qP.C01.3),snp,1,27543151,Heading_date;Spikelet_length
+4_21448025 (qP.C04.2),snp,4,21448025,Heading_date;Spikelet_length
+8_20170844 (qP.C08.1),snp,8,20170844,Num_effective_panicles;Yield

@@ -1,0 +1,13 @@
+{
+ "obs_any": 10,
+ "exp_any": 5.4946,
+ "p_any": 0.0485,
+ "obs_same": 2,
+ "exp_same": 0.9558,
+ "p_same": 0.2476,
+ "note": "Permutation test with 10,000 sets of random positions on the same chromosomes (uniform along each chromosome, MSU7 lengths). Zhou 2026 positions come from variant IDs in their text; their full lead-SNP tables (Supplementary 13-15) were not available, so this compares against 19 sites only. Coordinates are assumed to be on the same build because both use RiceVarMap variant IDs. The 247 loci are not independent: one marker can lead loci for several traits. Counting each distinct marker once is the fairer test.",
+ "obs_distinct": 6,
+ "n_distinct": 185,
+ "exp_distinct": 4.107,
+ "p_distinct": 0.2292
+}

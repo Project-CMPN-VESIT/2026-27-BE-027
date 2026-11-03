@@ -1,0 +1,10 @@
+trait,zhou_best_r2,zhou_model
+Plant_height,0.365,stepwise regression
+Heading_date,0.461,LightGBM
+Num_effective_panicles,0.281,random forest
+Yield,0.264,random forest
+Grain_weight,0.195,LightGBM
+Spikelet_length,0.159,LightGBM
+Grain_length,0.162,random forest
+Grain_width,0.421,random forest
+Grain_thickness,0.243,LASSO
